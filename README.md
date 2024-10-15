@@ -1,7 +1,6 @@
-## Hi there 👋
+
 ### Hi there, I'm Alwin👋
 
-[![Website]]
 
 ## I'm new, but a passionate Developer!
 
