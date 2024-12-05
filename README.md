@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning data analysis.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Learn more web technologies and focus on UI/UX and data anakysis.
+- 🥅 2024 Goals: Learn more web technologies and focus on UI/UX and data analysis.
 - ⚡ Fun fact: I love creating new projects, discussing socio-economic issues.
 
 ### Connect with me:
