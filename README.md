@@ -42,9 +42,7 @@
 </details>
 
 
-[website]:
-[instagram]:
-[linkedin]:
+
 
 <!--
 **alwinvargh/alwinvargh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
