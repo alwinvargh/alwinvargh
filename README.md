@@ -2,7 +2,7 @@
 ### Hi there, I'm Alwin👋
 
 
-## I'm new, but a passionate Developer!
+## I'm new, but a passionate Developer! 
 
 - 🌱 I’m currently learning data analysis.
 - 👯 I’m looking to collaborate with other content creators
